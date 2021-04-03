@@ -16,6 +16,7 @@
   display: block;
   height: 269px;
   text-align: right;
+  padding-bottom: 18px;
 }
 
 .eisenhower__img {
@@ -99,6 +100,10 @@
 }
 
 /* New Task */
+.new-task {
+  padding-bottom: 15px;
+}
+
 .new-task__label {
   display: block;
   margin: 0 0 20px;
