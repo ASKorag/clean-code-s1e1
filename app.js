@@ -53,7 +53,7 @@ var createNewTaskElement=function(taskString){
     deleteButton.classList.add('todo__btn', 'btn')
     editButton.classList.add('todo__btn', 'btn')
     deleteButtonImg.className="todo__icon--del icon--del"
-    deleteButtonImg.alt="Delete icon"
+    deleteButtonImg.alt=""
     //-------------------------------------------------------------------------------My Fix
     deleteButton.appendChild(deleteButtonImg);
 
